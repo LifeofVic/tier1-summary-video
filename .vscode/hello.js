@@ -1,0 +1,1 @@
+console.log("hello Prime Academy, First time using terminal to push to github!!!")
